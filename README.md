@@ -2,7 +2,7 @@
 
 for react workshop week 2, some clickable divs illustrating 'lifting state'.
 
-npm install 
+npm install <br />
 npm start
 
 
